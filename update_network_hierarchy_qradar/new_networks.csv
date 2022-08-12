@@ -1,0 +1,5 @@
+group,cidr,name,description,domain_id,country_code
+New York,10.150.0.0/18,Equipment_Network_Data_64_C_Class,Description For New York,0,US
+Manhattan,10.150.64.0/22,Equipment_Network_Voice_4_C_Class,No Description,0,US
+Athens,10.150.192.0/20,Equipment_Network_16_C_Class,Athens Description,0,GR
+Patras,10.150.197.0/24,Equipment_Network_Server_Management,Patras Description,0,GR
